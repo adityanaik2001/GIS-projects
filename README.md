@@ -9,5 +9,5 @@ Project 2: Combatting Forest fire. Using Satellite images and DEM data, fuel ris
 maps were plotted and a fire risk prediction model was designed. A cattle and livestock evacuation strategy was
 also designed
 
-
-Received AA grade in the course
+Project 1 was done as a part of CE302(Geodesy) course project
+Project 2 was done as a part of IIT Roorkee Civil conclave 2021. Problem statement by Forest Survey of India
