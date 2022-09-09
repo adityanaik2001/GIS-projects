@@ -8,3 +8,6 @@ parameters.
 Project 2: Combatting Forest fire. Using Satellite images and DEM data, fuel risk, fire detection, fire response
 maps were plotted and a fire risk prediction model was designed. A cattle and livestock evacuation strategy was
 also designed
+
+
+Received AA grade in the course
