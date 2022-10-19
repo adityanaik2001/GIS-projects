@@ -3,7 +3,7 @@ Using ArcGIS and QGIS software for analysis of satellite data | Civil Engg
 
 Contributer: 
 1. Aditya Naik
-2. Sumer Thakure
+2. Sumer Thakur
 3. Nishant Kumar
 4. Digvijay Singh Rathore
 5. Manish Kori
